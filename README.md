@@ -1,5 +1,6 @@
 # Makes TEST - User Management
 
+This is a Python application, developed with Flask framework, to management CRUD operations users.
 
 ## Requirements
 You need those things below:
@@ -31,5 +32,4 @@ If this environment variables are not set, ```sqlite``` will be used.
 ``` python run.py ```
 
 ## Documentation
-Running the application locally, you can try this api from its [Swagger UI](https://swagger.io/tools/swagger-ui/).
-http://127.0.0.1:5000/apidocs/
+Running the application locally, you can [try this api](http://127.0.0.1:5000/apidocs/) from its [Swagger UI](https://swagger.io/tools/swagger-ui/).
